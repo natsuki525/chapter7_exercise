@@ -26,6 +26,11 @@ main {
 	border-bottom: 1px solid silver;
 	padding-bottom: 30px;
 }
+.servise-item2 {
+	margin: 0 auto;
+	border-bottom: 1px solid silver;
+	padding: 30px 0;
+}
 p {
 	color: gray;
 	font-family: arial;
