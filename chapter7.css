@@ -11,7 +11,22 @@
 	background-position: bottom;
 }
 .main-visual-text {
-	color: gray;
+	color: dimgray;
 	padding: 20px 0 0 20px;
 	font-family: microsoft sans serif;
+}
+
+main {
+	width:840px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+.servise-item {
+	margin: 0 auto;
+	border-bottom: 1px solid silver;
+	padding-bottom: 30px;
+}
+p {
+	color: gray;
+	font-family: arial;
 }
